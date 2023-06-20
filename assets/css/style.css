@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(182, 255, 255);
+}
+table,thead, tbody, tfoot, th, td, td {
+    border-style: solid;
+    border-width: 10px;
+    border-collapse: collapse;
+    border-color: rgb(183, 183, 183);
+}
+table{
+    font-size: 250%;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(45, 57, 57);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
